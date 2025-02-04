@@ -7,3 +7,7 @@ This is a new line
 **Some description**
 
 # Project Objectives
+Build simple guides and examples on how to use Git and GitHub
+
+# Pycharm Title
+This is a Pycharm example
